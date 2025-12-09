@@ -34,4 +34,4 @@ source .venv/bin/activate  # or `.venv\Scripts\activate` on Windows
 pip install -r requirements.txt
 
 # Launch the application
-python interface2.py
+python interface_finale.py
